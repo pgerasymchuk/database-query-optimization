@@ -1,0 +1,4 @@
+setup/oracle/opt/
+.idea/
+*.iml
+.DS_Store
